@@ -1,0 +1,21 @@
+/************************************TAG SELECTORS***********************/
+  body{
+    background-color: #87c0cd;
+  }
+  h1{
+  color: #f3f9fb;
+  }
+  h3{
+    color: #f3f9fb;
+  }
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+  /******************************CLASS SELECTORS*****************************/
+.circular{
+  border-radius: 100%;
+}
